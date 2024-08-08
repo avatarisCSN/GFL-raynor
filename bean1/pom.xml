@@ -1,0 +1,44 @@
+<dependencies>
+    <!-- Spring Core -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-core</artifactId>
+        <version>5.3.25</version> <!-- Проверьте последнюю версию на Maven Central -->
+    </dependency>
+
+    <!-- Spring Context -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-context</artifactId>
+        <version>5.3.25</version> <!-- Проверьте последнюю версию на Maven Central -->
+    </dependency>
+
+    <!-- Spring Beans -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-beans</artifactId>
+        <version>5.3.25</version> <!-- Проверьте последнюю версию на Maven Central -->
+    </dependency>
+
+    <!-- Spring JDBC -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-jdbc</artifactId>
+        <version>5.3.25</version> <!-- Проверьте последнюю версию на Maven Central -->
+    </dependency>
+
+    <!-- Database Driver (например, MySQL) -->
+    <dependency>
+        <groupId>mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <version>8.0.28</version> <!-- Проверьте последнюю версию на Maven Central -->
+    </dependency>
+
+    <!-- Spring Test (если вы пишете тесты) -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-test</artifactId>
+        <version>5.3.25</version> <!-- Проверьте последнюю версию на Maven Central -->
+        <scope>test</scope>
+    </dependency>
+</dependencies>
