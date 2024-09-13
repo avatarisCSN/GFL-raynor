@@ -7,9 +7,7 @@ public class DigitSum {
         System.out.println("Введите число");
         int i;
         Scanner scan = new Scanner(System.in);
-        try {
-            i=scan.nextInt();
-        } catch ()
+
 
     }
 

@@ -1,4 +1,4 @@
-package OOP.Eazy;
+package OOP.harder;
 
 public class Book {
     private String title;

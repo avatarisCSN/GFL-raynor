@@ -1,2 +1,5 @@
-package StringFormatTest;public class First {
+package StringFormatTest;
+
+public class First {
+
 }

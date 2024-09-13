@@ -1,3 +1,5 @@
+package example;
+
 import java.util.Arrays;
 
 public class Split {
@@ -8,7 +10,7 @@ return input.split(regex);
 
     public static void main(String[] args) {
         String first ="Java is a powerful language"; // probel
-        String second ="Split this sentence into words"; //probel
+        String second ="example.Split this sentence into words"; //probel
         String third ="apple,banana,orange,grape"; // ,
         String fourth ="word1.word2.word3";//.
         String fifth ="123-456-789"; // -

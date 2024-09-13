@@ -1,2 +1,4 @@
-package OOP;public class First {
+package OOP;
+
+public class First {
 }

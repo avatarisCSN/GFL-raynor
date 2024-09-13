@@ -1,2 +1,5 @@
-package OOP.harder;public class Library {
+package OOP.harder;
+
+public class Library {
+
 }

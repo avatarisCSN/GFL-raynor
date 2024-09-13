@@ -1,2 +1,4 @@
-package HardTasks;public class NSD {
+package HardTasks;
+
+public class NSD {
 }

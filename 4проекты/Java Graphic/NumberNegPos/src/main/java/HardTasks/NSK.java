@@ -1,2 +1,4 @@
-package HardTasks;public class NSK {
+package HardTasks;
+
+public class NSK {
 }
