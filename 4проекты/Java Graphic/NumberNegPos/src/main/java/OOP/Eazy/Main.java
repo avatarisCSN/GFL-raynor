@@ -3,9 +3,18 @@ package OOP.Eazy;
 import OOP.harder.Book;
 
 public class Main {
+    public static int add(int a, int b)
+    {
+        a+=b;
+        return a;
+    }
+
     public static void main(String[] args) {
         Book book = new Book("Кольцо Тьмы", "Ник перумов", 2000);
         book.display();
+        System.out.println(add(5,3));
+        long yearSecondCount = 365*24*60*60;
+        System.out.println(yearSecondCount);
         Circle circle = new Circle(10);
         System.out.println("круг радиусом 10 имеет площадь и длину окружности: " + circle.SquareCalc() + " " + circle.calculateCircumference());
 
