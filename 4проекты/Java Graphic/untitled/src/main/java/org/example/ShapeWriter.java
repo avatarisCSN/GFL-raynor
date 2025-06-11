@@ -6,7 +6,7 @@ public class ShapeWriter {
     public ShapeWriter(Shape shape) {
         this.shape = shape;
     }
-public String getName(){
+public String getName() {
         return shape.getName();
 }
 }
